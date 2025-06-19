@@ -1,0 +1,50 @@
+{
+    "target_url": "https://center.cherryproxy.com/Dashboard/TrafficSetup",
+    "extraction_timestamp": "Thu Jun 19 15:07:34 2025",
+    "output_directory": "extracted_data_cherrybomb/center_cherryproxy_com_1750320452",
+    "summary_by_language": {
+        "JSON (no ext)": 2,
+        "Binary/.ico": 1,
+        "CSS": 2,
+        "JavaScript": 2
+    },
+    "files_extracted": [
+        {
+            "url": "https://center.cherryproxy.com/Dashboard/TrafficSetup",
+            "local_path": "extracted_data_cherrybomb/center_cherryproxy_com_1750320452/files/Dashboard/index.html",
+            "language_detected": "JSON (no ext)"
+        },
+        {
+            "url": "https://center.cherryproxy.com/static/js/'+o+'",
+            "local_path": "extracted_data_cherrybomb/center_cherryproxy_com_1750320452/files/static/js/index.html",
+            "language_detected": "JSON (no ext)"
+        },
+        {
+            "url": "https://center.cherryproxy.com/favicon.ico",
+            "local_path": "extracted_data_cherrybomb/center_cherryproxy_com_1750320452/files/favicon.ico",
+            "language_detected": "Binary/.ico"
+        },
+        {
+            "url": "https://center.cherryproxy.com/static/assets/pnpm.1749785742576.css",
+            "local_path": "extracted_data_cherrybomb/center_cherryproxy_com_1750320452/files/static/assets/pnpm.1749785742576.css",
+            "language_detected": "CSS"
+        },
+        {
+            "url": "https://center.cherryproxy.com/static/assets/index.1749785742576.css",
+            "local_path": "extracted_data_cherrybomb/center_cherryproxy_com_1750320452/files/static/assets/index.1749785742576.css",
+            "language_detected": "CSS"
+        },
+        {
+            "url": "https://center.cherryproxy.com/static/js/pnpm.1749785742576.js",
+            "local_path": "extracted_data_cherrybomb/center_cherryproxy_com_1750320452/files/static/js/pnpm.1749785742576.js",
+            "language_detected": "JavaScript"
+        },
+        {
+            "url": "https://center.cherryproxy.com/static/js/index.1749785742576.js",
+            "local_path": "extracted_data_cherrybomb/center_cherryproxy_com_1750320452/files/static/js/index.1749785742576.js",
+            "language_detected": "JavaScript"
+        }
+    ],
+    "unreachable_urls": [],
+    "total_urls_visited": 7
+}
